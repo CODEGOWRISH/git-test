@@ -1,3 +1,7 @@
 added a new file to test pull
 
+<<<<<<< HEAD
 Modified locally with this line
+=======
+Edited directly in github site to check if pull again overwrites already pulled and modified file on the laptop
+>>>>>>> c751e0b5abc7ef9d59af82d36c41cf7ab8d0af70
